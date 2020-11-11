@@ -46,6 +46,8 @@ const Friends = () => {
                         <h3>{friend.name}</h3>
                         <h3>{friend.age}</h3>
                         <h3>{friend.email}</h3>
+                        <button>Delete</button>
+                        <button>Edit</button>
                     </div>
                 ))}
             </FriendContainer>

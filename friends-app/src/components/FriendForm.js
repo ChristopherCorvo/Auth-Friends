@@ -56,10 +56,8 @@ const FriendForm = () => {
             })
             .catch((error)=> {
                 console.log(error)
-            })
-            
+            })    
     }
-    
     
     return (
         
